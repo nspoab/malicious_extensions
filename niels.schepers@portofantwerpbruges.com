@@ -1302,7 +1302,6 @@ garrantydecrypt
 gate
 GBLOCK
 GC47
-gdb
 GDCB
 ge010gic
 ge0l0gic
